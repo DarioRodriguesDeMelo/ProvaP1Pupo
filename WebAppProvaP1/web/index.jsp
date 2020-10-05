@@ -4,6 +4,7 @@
     Author     : Dario
 --%>
 
+<%@page import="br.com.fatecpg.Disciplina"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -12,8 +13,11 @@
         <title>P1-POO<</title>
     </head>
     <body>
+        <%@include file = "WEB-INF/jspf/menu.jspf"%>
         <h3>Dario Rodrigues</h3>
         <h3>RA: 1290481923022</h3>
-        
+        <h3>Discplinas matriculadas: <%= Disciplina.getList().size()%></h3>
+                
+                
     </body>
 </html>
