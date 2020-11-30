@@ -4,7 +4,7 @@
     Author     : Dario
 --%>
 
-<%@page import="br.com.fatecpg.Disciplina"%>
+<%@page import="ads.Disciplina"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
