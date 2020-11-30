@@ -5,9 +5,7 @@
         <group>
             <file>file:/C:/Users/Dario/Documents/GitHub/ProvaP1Pupo/WebAppProvaP1/web/disciplinas.jsp</file>
             <file>file:/C:/Users/Dario/Documents/GitHub/ProvaP1Pupo/WebAppProvaP1/web/index.jsp</file>
-            <file>file:/C:/Users/Dario/Documents/GitHub/ProvaP1Pupo/WebAppProvaP1/web/WEB-INF/jspf/menu.jspf</file>
-            <file>file:/C:/Users/Dario/Documents/GitHub/ProvaP1Pupo/WebAppProvaP1/src/java/br/com/fatecpg/Disciplina.java</file>
-            <file>file:/C:/Users/Dario/Documents/GitHub/ProvaP1Pupo/WebAppProvaP1/web/sobre.jsp</file>
+            <file>file:/C:/Users/Dario/Documents/GitHub/ProvaP1Pupo/WebAppProvaP1/src/java/Listener/DBListener.java</file>
         </group>
     </open-files>
 </project-private>
